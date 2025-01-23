@@ -39,14 +39,15 @@ python src/analyze_loneliness.py
 
 📊 Key Findings
 Loneliness Themes:
-Social isolation, lack of sharing, and feelings of exclusion emerged as significant topics.
-Younger individuals reported higher loneliness levels compared to older demographics.
+- Social isolation, lack of sharing, and feelings of exclusion emerged as significant topics.
+- Younger individuals reported higher loneliness levels compared to older demographics.
+
 Visualization Insights:
-Interactive heatmaps and word clouds revealed prominent emotional expressions tied to loneliness.
-Dynamic dashboards allowed filtering by demographics, offering tailored insights.
+- Interactive heatmaps and word clouds revealed prominent emotional expressions tied to loneliness.
+- Dynamic dashboards allowed filtering by demographics, offering tailored insights.
 
 🌟 Why Follow This Project?
-This repository bridges psychological research with data science innovation, offering actionable insights and state-of-the-art techniques in text analysis. Follow for:
-NLP enthusiasts: Inspiration for applying advanced models like BERTopic.
-Data scientists: Real-world use cases in predictive modeling and visual storytelling.
-Researchers: Novel methodologies for tackling societal challenges using data.
+- This repository bridges psychological research with data science innovation, offering actionable insights and state-of-the-art techniques in text analysis. Follow for:
+- NLP enthusiasts: Inspiration for applying advanced models like BERTopic.
+- Data scientists: Real-world use cases in predictive modeling and visual storytelling.
+- Researchers: Novel methodologies for tackling societal challenges using data.
